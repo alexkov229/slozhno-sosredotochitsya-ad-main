@@ -1,0 +1,10 @@
+:root {
+  --text-color: #F1B2CE;
+  --text-accent-color: #000028;
+  --decoration-element-color: #FF0070;
+  --accent-color: #FF0070;
+  --transparent-accent-color: #FF007066;
+  --heading-color: #DB00FF;
+  --background-color: #000028;
+  --background-image: url(../images/cover-image-dark.png);
+}
